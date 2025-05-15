@@ -2,7 +2,7 @@
 
 <!-- ![Hacker Terminal](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I4bnluOWRpbnI2eTJ4MHcwcDdkbmpxcDk1dWJhcGJ1ajZ4c2l0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif) -->
 
-Welcome to my offensive security arsenal! This repository is a curated collection of my personal tools, scripts, and write-ups, reflecting my journey as a cybersecurity student and ethical hacker. It highlights my practical skills in vulnerability assessment, penetration testing, and security research.
+I'm Mostafa Rashidy, a Computer Science student specializing in cybersecurity and penetration testing. I actively participate in CTF challenges and security research to sharpen my skills. This repository will host my tools, scripts, and write-ups as I continue to learn and contribute to the cybersecurity community.
 
 <!-- ## 📂 Repository Structure
 
