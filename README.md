@@ -1,9 +1,50 @@
 # Rashidy's Offensive Security Arsenal
 
+![Hacker Terminal](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I4bnluOWRpbnI2eTJ4MHcwcDdkbmpxcDk1dWJhcGJ1ajZ4c2l0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif)
+
 Welcome to my offensive security arsenal! This repository is a curated collection of my personal tools, scripts, and write-ups, reflecting my journey as a cybersecurity student and ethical hacker. It highlights my practical skills in vulnerability assessment, penetration testing, and security research.
 
-## 📂 Repository Structure
-  
+<!-- ## 📂 Repository Structure
+
+<details>
+  <summary>🛠 Tools</summary>
+  <ul>
+    <li>Custom scripts for automation and exploitation</li>
+    <li>Payload generators and network utilities</li>
+  </ul>
+</details>
+
+<details>
+  <summary>📝 Notes</summary>
+  <ul>
+    <li>Privilege escalation techniques</li>
+    <li>Web application hacking strategies</li>
+    <li>Network enumeration tips</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🧩 CTF Challenges</summary>
+  <ul>
+    <li>Write-ups for solved CTFs</li>
+    <li>Unique exploitation methods and tricks</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🚀 Exploits</summary>
+  <ul>
+    <li>Proof-of-Concept (PoC) exploits I've written or modified</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🧰 Resources</summary>
+  <ul>
+    <li>Useful links, cheat sheets, and guides</li>
+  </ul>
+</details> -->
+
 ## 💻 Skills
 - Penetration Testing, Vulnerability Assessment, CTF Problem-Solving, Security Research  
 - Programming: C/C++, Python, HTML, JavaScript, PHP, SQL  
@@ -21,6 +62,6 @@ Contributions are welcome! If you have a cool script or technique to share, feel
 - 📧 [mostafarashidy.infosec@gmail.com](mailto:mostafarashidy.infosec@gmail.com)  
 - 💼 [LinkedIn - Mostafa Rashidy](https://www.linkedin.com/in/mostafa-rashidy/)  
 - 🏆 [TryHackMe - RASHIDY](https://tryhackme.com/p/RASHIDY)  
- 
+
 ---
 Stay sharp and hack smart! 💥
